@@ -19,7 +19,7 @@ $\small\textcolor{#FFF1CB}{\textsf{omori !}}$
 $\small\textcolor{#FFF1CB}{\textsf{call }}$ $\small\textcolor{#F1EBED}{\textsf{me}}$
 $\small\textcolor{#D3C3C7}{\textsf{sunny}}$
 <p align="center">
-<a href="https://goodeveningsunsim.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=D3C3C7&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a><a href="goodeveningsunsim.atabook.org"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=F1EBED&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=F4EFEF&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a><a href="goodeveningsunsim.atabook.org"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=B5A2A1&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a>
 
 <p align="center">
 <img height="100" width="300" src= "https://files.catbox.moe/uw0d0i.gif">
