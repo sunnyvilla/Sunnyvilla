@@ -2,7 +2,6 @@
 <p align="center">
  <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Other%20world&extraCount=10&color=9392b0&labelColor=e0e8d2"/></a>
 
- <img height="100" width="300" src= "https://files.catbox.moe/csv34n.png"> 
  <p align="center">
   <img height="100" width="100" src= "https://files.catbox.moe/v0giif.gif">
 <p align="Center">
