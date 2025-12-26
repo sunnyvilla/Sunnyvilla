@@ -6,7 +6,7 @@
   <img height="100" width="100" src= "https://files.catbox.moe/v0giif.gif">
 <p align="Center">
 $\small\textcolor{#D3C3C7}{\textsf{welcome}}$
-$\small\textcolor{#F1EBED}{\textsf{ to the other world,}}$
+$\small\textcolor{#F1EBED}{\textsf{ to the dreamworld,}}$
 $\small\textcolor{#FFF1CB}{\textsf{omori !}}$
 <p align="center">
  <img height="100" width="30" src= "https://files.catbox.moe/8j4xyn.png">
