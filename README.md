@@ -1,9 +1,10 @@
 
 <p align="center">
- <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Other%20world&extraCount=10&color=9392b0&labelColor=e0e8d2"/></a>
-
+ <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?label=IT'S&extraCount=2508&color=cbc9b0&labelColor=70ac6c"/></a>
+<a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?label=TV%20TIME%20!&extraCount=256409&color=fff78f&labelColor=fd8284"/></a>
+ 
  <p align="center">
-  <img height="100" width="100" src= "https://files.catbox.moe/v0giif.gif">
+  <img height="300" width="500" src= "https://files.catbox.moe/kim66b.png">
 <p align="Center">
 $\small\textcolor{#D3C3C7}{\textsf{welcome}}$
 $\small\textcolor{#F1EBED}{\textsf{ to the dreamworld,}}$
