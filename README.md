@@ -7,6 +7,7 @@
  <p align="center">
   <img height="100" width="100" src= "https://files.catbox.moe/xsire1.jpg">
 <img height="300" width="500" src= "https://files.catbox.moe/k33ifa.png">
+  
 <p align="center">
 <img height="50" width="70" src= "https://files.catbox.moe/xuuv4f.jpg">
 <p align="center">
@@ -18,10 +19,11 @@ $\small\textcolor{#ffffff}{\textsf{she / her }}$
  
  
 <p align="center">
-<img height="100" width="100" src= "https://files.catbox.moe/xsire1.jpg">
+<img height="100" width="100" src= "https://files.catbox.moe/mb33z5.png">
  <a href="https://ohnononothisiswrong.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=F4EFEF&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a>
- <p align center>
- <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=B5A2A1&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a>
+ <p align="center">
+ $\small\textcolor{#fffff}{\textsf{sign my atabook, pls!}}$
+  <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=B5A2A1&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a>
 
 <p align="center">
 <img height="100" width="300" src= "https://files.catbox.moe/uw0d0i.gif">
