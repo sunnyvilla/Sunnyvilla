@@ -8,8 +8,7 @@
   <img height="100" width="100" src= "https://files.catbox.moe/xsire1.jpg">
 <img height="300" width="500" src= "https://files.catbox.moe/k33ifa.png">
   
-<p align="center">
-<img height="50" width="70" src= "https://files.catbox.moe/xuuv4f.jpg">
+
 <p align="center">
 $\small\textcolor{#ffffff}{\textsf{call }}$ 
 $\small\textcolor{#BB9566}{\textsf{me}}$
