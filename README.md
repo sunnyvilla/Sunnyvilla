@@ -4,8 +4,7 @@
 <img height="100" width="30" src= "https://files.catbox.moe/msho3v.png">
  <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?label=Undertale%20au&extraCount=12590&color=80757C&labelColor=D39059"/></a>
 <img height="100" width="30" src= "https://files.catbox.moe/msho3v.png">
- <p align="center">
-  <img height="100" width="100" src= "https://files.catbox.moe/xsire1.jpg">
+
 <img height="300" width="500" src= "https://files.catbox.moe/k33ifa.png">
   
 
