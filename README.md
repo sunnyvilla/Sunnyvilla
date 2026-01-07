@@ -1,8 +1,9 @@
 
 <p align="center">
  <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?label=IT'S&extraCount=2508&color=cbc9b0&labelColor=70ac6c"/></a>
-<a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?label=TV%20TIME%20!&extraCount=256409&color=fff78f&labelColor=fd8284"/></a>
- 
+<img height="100" width="30" src= "https://files.catbox.moe/msho3v.png">
+ <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?label=TV%20TIME%20!&extraCount=256409&color=fff78f&labelColor=fd8284"/></a>
+
  <p align="center">
   <img height="300" width="500" src= "https://files.catbox.moe/kim66b.png">
 <p align="Center">
