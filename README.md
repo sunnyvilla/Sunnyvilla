@@ -14,9 +14,16 @@ $\small\textcolor{#787878}{\textsf{me}}$
  $\small\textcolor{#FFA0A8}{\textsf{kel}}$
 <p align="center">
 $\small\textcolor{#F0F0F0}{\textsf{she / her }}$
+<p align="center">
+$\small\textcolor{#FFA0A8}{\textsf{𝖼*𝗁}}$
+$\small\textcolor{#787878}{\textsf{𝖺𝗅𝗐𝖺𝗒𝗌!}}$
+ $\small\textcolor{#FFA0A8}{\textsf{𝖺𝗌𝗄 𝖿𝗈𝗋 𝗂𝗇𝗌𝗉/𝖿𝗋𝗂𝖾𝗇𝖽 𝗋𝖾𝗊 𝗈𝗇 𝖺𝗍𝖺𝖻𝗈𝗈𝗄 𝗉𝗅𝖾𝖺𝗌𝖾, 𝗆𝗈𝗌𝗍 𝗈𝖿𝗍𝖾𝗇 𝖺𝖿𝗄 𝗈𝗋 𝗈𝖿𝖿 𝗉𝗁𝗈𝗇𝖾.}}$
 
+<p align="center">
+ $\small\textcolor{#fffff}{\textsf{ 𝗂 𝖽𝗈𝗇𝗍 𝗆𝗂𝗇𝖽 𝗁𝖺𝗏𝗂𝗇𝗀 𝖺 𝗈𝗇𝗅𝗂𝗇𝖾 𝖿𝖺𝗆𝗂𝗅𝗒, 𝗉𝗅𝖾𝖺𝗌𝖾 𝖺𝗌𝗄 𝖿𝗂𝗋𝗌𝗍.}}$
 
- 
+<p align="right">
+ $\small\textcolor{#FFA0A8}{\textsf{𝗁𝗎𝗀𝖾 𝗍𝖾𝗇𝗇𝖺 𝖿𝗂𝖼𝗍𝗄𝗂𝗇! 𝗌𝗉𝖺𝗆𝗍𝖾𝗇𝗇𝖺 𝗂𝗌 𝗆𝗒 𝖼𝗈𝗆𝖿𝗈𝗋𝗍 𝗌𝗁𝗂𝗉.}}$
  
 <p align="center">
 <img height="100" width="100" src= "https://files.catbox.moe/mb33z5.png">
