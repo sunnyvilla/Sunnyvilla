@@ -2,7 +2,7 @@
 <p align="center">
  
 <img height="100" width="30" src= "https://files.catbox.moe/msho3v.png">
- <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?label=Undertale%20au&extraCount=12590&color=80757C&labelColor=D39059"/></a>
+ 
 <img height="100" width="30" src= "https://files.catbox.moe/msho3v.png">
 
 <img height="300" width="500" src= "https://files.catbox.moe/k33ifa.png">
@@ -10,10 +10,10 @@
 
 <p align="center">
 $\small\textcolor{#ffffff}{\textsf{call }}$ 
-$\small\textcolor{#BB9566}{\textsf{me}}$
- $\small\textcolor{#D39059}{\textsf{keysel or just kel}}$
+$\small\textcolor{#787878}{\textsf{me}}$
+ $\small\textcolor{#FFA0A8}{\textsf{keysel or just kel}}$
 <p align="center">
-$\small\textcolor{#ffffff}{\textsf{she / her }}$
+$\small\textcolor{#F0F0F0}{\textsf{she / her }}$
  
  
 <p align="center">
