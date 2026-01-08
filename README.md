@@ -1,4 +1,5 @@
-
+<p align="center">
+<img height="300" width="300" src= "https://files.catbox.moe/ct11fx.png">
 <p align="center">
  
 <img height="100" width="30" src= "https://files.catbox.moe/msho3v.png">
@@ -6,8 +7,8 @@
 <img height="100" width="30" src= "https://files.catbox.moe/msho3v.png">
 
 <img height="300" width="500" src= "https://files.catbox.moe/1izxka.png">
-  
-
+<p align="center">  
+<img height="30" width="30" src= "https://files.catbox.moe/u11c5n.gif">
 <p align="center">
 $\small\textcolor{#ffffff}{\textsf{call }}$ 
 $\small\textcolor{#787878}{\textsf{me}}$
@@ -31,7 +32,7 @@ $\small\textcolor{#787878}{\textsf{𝖺𝗅𝗐𝖺𝗒𝗌!}}$
   <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=F0F0F0&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a>
 
 <p align="center">
-<img height="100" width="300" src= "https://files.catbox.moe/uw0d0i.gif">
+<img height="300" width="300" src= "https://files.catbox.moe/tloibs.png">
 
 
 
