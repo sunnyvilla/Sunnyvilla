@@ -1,6 +1,8 @@
 <p align="center">
 <img height="300" width="300" src= "https://files.catbox.moe/pk93ou.png">
-
+<p align="center">
+ <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Loneliness&extraCount=27&color=B1A84D&labelColor=DADE89"/></a>
+ <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Death&color=B1A84D&labelColor=6D714E"/></a>
  <p align="center">
   <img height="500" width="500" src= "https://files.catbox.moe/dr5m2a.png">
 <p align="center">
@@ -21,13 +23,16 @@ $\small\textcolor{#B1A84D}{\textsf{𝖺𝗅𝗐𝖺𝗒𝗌!}}$
  <a href="https://ohnononothisiswrong.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=DADE89&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a>
   <a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=6D714E&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a>
 
-
 <p align="center">
-<img height="300" width="300" src= "https://files.catbox.moe/1o6qpw.png">
- 
-
- 
-
+⁠⊰⁠
+ $\small\textcolor{#B1A84D}{\textsf{D}}$
+$\small\textcolor{#6D714E}{\textsf{y}}$
+ $\small\textcolor{#BA973D}{\textsf{i}}$
+$\small\textcolor{#B1A84D}{\textsf{n}}$
+ $\small\textcolor{#BA973D}{\textsf{g}}$
+$\small\textcolor{#6D714E}{\textsf{.}}$
+$\small\textcolor{#B1A84D}{\textsf{.}}$
+$\small\textcolor{#6D714E}{\textsf{.}}$
    
    <p align="center">
   <a href="https://open.spotify.com/user/31epnla3s6kdp6ghhtszrqkhvblq?si=Bz6B1xRSRa-ecVnvgMU3mg">
