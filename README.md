@@ -8,7 +8,7 @@
 <p align="center">
 $\small\textcolor{#6D714E}{\textsf{call }}$ 
 $\small\textcolor{#B1A84D}{\textsf{me}}$
- $\small\textcolor{#BA973D}{\textsf{kel}}$
+ $\small\textcolor{#BA973D}{\textsf{knife}}$
 <p align="center">
 $\small\textcolor{#DADE89}{\textsf{she / her }}$
 $\small\textcolor{#6D714E}{\textsf{𝖼*𝗁}}$
