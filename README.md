@@ -1,3 +1,6 @@
+<p align="Center">
+<a href="https://fauux.neocities.org/space"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=6F3D49&center=true&vCenter=true&width=200&height=30&lines=lain." alt="Typing SVG" /></a>
+
 <p align="center">
 <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Experiment&color=D37A89&labelColor=000000"/></a>
 <img height="300" width="300" src= "https://files.catbox.moe/lh5nts.gif">
