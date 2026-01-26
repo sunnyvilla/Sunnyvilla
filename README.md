@@ -1,4 +1,6 @@
 <p align="center">
+   <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Experiment&color=D3748A&labelColor=C2B593"/></a>
+<p align="center">
 <img height="300" width="300" src= "https://files.catbox.moe/lh5nts.gif">
 
 <p align="center">
