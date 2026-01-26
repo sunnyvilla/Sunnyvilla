@@ -1,6 +1,12 @@
 <p align="center">
 <img height="300" width="300" src= "https://files.catbox.moe/lh5nts.gif">
 
+<p align="center">
+$\small\textcolor{#6F3D49}{\textsf{k}}$
+$\small\textcolor{#C9898A}{\textsf{n}}$
+$\small\textcolor{#C6AA92}{\textsf{i}}$
+$\small\textcolor{#C2B593}{\textsf{f}}$
+
  
 
    
