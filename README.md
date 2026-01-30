@@ -3,7 +3,8 @@
 
 <p align="center">
 <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Experiment&color=D37A89&labelColor=000000"/></a>
-<img height="300" width="300" src= "https://files.catbox.moe/lh5nts.gif">
+
+   <img height="300" width="300" src= "https://files.catbox.moe/lh5nts.gif">
 
 <p align="center">
 $\small\textcolor{#6F3D49}{\textsf{i}}$
