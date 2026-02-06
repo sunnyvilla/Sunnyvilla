@@ -1,23 +1,23 @@
 <p align="Center">
-<a href="https://fauux.neocities.org/space"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=6F3D49&center=true&vCenter=true&width=200&height=30&lines=lain." alt="Typing SVG" /></a>
+<a href="https://fauux.neocities.org/space"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=FC0D6B&center=true&vCenter=true&width=200&height=30&lines=lain." alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Experiment&color=D37A89&labelColor=000000"/></a>
+<a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Apps&extraCount=1000&color=FED586&labelColor=FD0F6F"/></a>
 
    <img height="300" width="300" src= "https://files.catbox.moe/rdqxc1.jpg">
 
 <p align="center">
-$\small\textcolor{#6F3D49}{\textsf{i}}$
-$\small\textcolor{#C9898A}{\textsf{m}}$
-$\small\textcolor{#D3748A}{\textsf{k}}$
-$\small\textcolor{#C6AA92}{\textsf{n}}$
-$\small\textcolor{#D3748A}{\textsf{i}}$
-$\small\textcolor{#C9898A}{\textsf{f}}$
-$\small\textcolor{#6F3D49}{\textsf{e}}$
+$\small\textcolor{#FED586}{\textsf{i}}$
+$\small\textcolor{#FD0F6F}{\textsf{m}}$
+$\small\textcolor{#FCD085}{\textsf{k}}$
+$\small\textcolor{#FC0D6B}{\textsf{n}}$
+$\small\textcolor{#FED586}{\textsf{i}}$
+$\small\textcolor{#FD0F6F}{\textsf{f}}$
+$\small\textcolor{#FCD085}{\textsf{e}}$
 
 <p align="center">
-<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=D3748A&center=true&vCenter=true&width=200&height=30&lines=Ata" alt="Typing SVG" /></a>
-<a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=C2B593&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=FD0F6F&center=true&vCenter=true&width=200&height=30&lines=Ata" alt="Typing SVG" /></a>
+<a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FC0D6B&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 
    <p align="center">
   <a href="https://open.spotify.com/user/31epnla3s6kdp6ghhtszrqkhvblq?si=Bz6B1xRSRa-ecVnvgMU3mg">
