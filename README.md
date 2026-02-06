@@ -4,7 +4,8 @@
 <p align="center">
 <a href="https://hits.sh/github.com/sunnyvilla/"><img alt="Hits" src="https://hits.sh/github.com/sunnyvilla.svg?style=flat-square&label=Apps&extraCount=1000&color=FED586&labelColor=FD0F6F"/></a>
 
-   <img height="300" width="300" src= "https://files.catbox.moe/rdqxc1.jpg">
+<p align="center">
+<img height="300" width="300" src= "https://files.catbox.moe/rdqxc1.jpg">
 
 <p align="center">
 $\small\textcolor{#FED586}{\textsf{i}}$
