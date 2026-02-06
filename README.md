@@ -8,15 +8,15 @@
 
 <p align="center">
 $\small\textcolor{#FED586}{\textsf{i}}$
-$\small\textcolor{#FD0F6F}{\textsf{m}}$
+$\small\textcolor{#FD8050}{\textsf{m}}$
 $\small\textcolor{#FCD085}{\textsf{k}}$
 $\small\textcolor{#FC0D6B}{\textsf{n}}$
-$\small\textcolor{#FED586}{\textsf{i}}$
+$\small\textcolor{#FD8050}{\textsf{i}}$
 $\small\textcolor{#FD0F6F}{\textsf{f}}$
 $\small\textcolor{#FCD085}{\textsf{e}}$
 
 <p align="center">
-<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=FD0F6F&center=true&vCenter=true&width=200&height=30&lines=Ata" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=FCD085&center=true&vCenter=true&width=200&height=30&lines=Ata" alt="Typing SVG" /></a>
 <a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=10&duration=1&pause=5000&color=FC0D6B&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 
    <p align="center">
