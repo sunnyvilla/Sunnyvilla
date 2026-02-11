@@ -1,3 +1,6 @@
+<p align="center"> https://docs.google.com/document/d/1cuuH5ho0J6X_YExap40CTT1pAbMCFGA4fIjSATf2XLo/edit?usp=drivesdk
+insom document, read carefully ^^
+
 <p align="Center">
 <a href="https://fauux.neocities.org/space"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=FC0D6B&center=true&vCenter=true&width=200&height=30&lines=lain." alt="Typing SVG" /></a>
 
