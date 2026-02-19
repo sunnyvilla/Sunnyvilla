@@ -5,6 +5,7 @@
   <img height="30" width="30" src= "https://files.catbox.moe/vpblqc.png">
 <p align="center">
 $\small\textcolor{#750000}{\textsf{always afk}}$
+<img height="30" width="30" src= "https://files.catbox.moe/kcpxlx.png">
 $\small\textcolor{#120808}{\textsf{or semi-afk}}$
 
 <p align="center">
@@ -17,7 +18,10 @@ $\small\textcolor{#120808}{\textsf{taffy}}$
 $\small\textcolor{#750000}{\textsf{kel}}$
 
 <p align="center">
-<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=sans+Script&size=13&duration=1&pause=5000&color=74150F&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
+<a href="https://goodeveningsunsim.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=sans+Script&size=13&duration=1&pause=5000&color=000000&center=true&vCenter=true&width=200&height=30&lines=ata" alt="Typing SVG" /></a>
+
+<p align="center">
+<a href="https://wereallconnected.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=13&duration=1&pause=5000&color=750000&center=true&vCenter=true&width=200&height=30&lines=straw" alt="Typing SVG" /></a>
 
   
 <p align="center">
